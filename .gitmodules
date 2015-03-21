@@ -1,0 +1,3 @@
+[submodule "ghcjs-build"]
+	path = ghcjs-build
+	url = git@github.com:ghcjs/ghcjs-build.git
